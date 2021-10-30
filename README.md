@@ -1,4 +1,4 @@
-# Trash-Aware
+# Trash Aware
 
 <image>	
 
