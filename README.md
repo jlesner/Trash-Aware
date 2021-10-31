@@ -1,6 +1,6 @@
 # Trash Aware
 
-<image>	
+![TA-wireframe-139Cpng](https://raw.githubusercontent.com/jasmine-lesner/Trash-Aware/main/TA-wireframe-139C.png)
 
 Mobile install: https://www.appsheet.com/newshortcut/c8fd4bcc-4a37-41b7-97a0-965edb18117c 
 
