@@ -19,6 +19,3 @@ Machine Learning infers missing information based on votes about similar product
 ## Benefits
 TrashAware helps its community improve shopping habits. Users will promote it to family and friends because as it grows popular they will gain economic power to stop environmental travesties like the plastics industry recycling fraud: https://youtu.be/PJnJ8mK3Q3g 
 Financial incentives created by TrashAware will push manufacturers, sellers, and even reluctant consumers to green products in a self-sustaining positive sum feedback loop -- a virtuous cycle towards a cleaner, greener, healthier planet!
-
-Functional prototype with DB backend => link to app sheets demo
-Demo presentation => youtube showing prototype walkthrough
