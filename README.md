@@ -1,6 +1,8 @@
-![TA-wireframe-139Cpng](https://raw.githubusercontent.com/jasmine-lesner/Trash-Aware/main/TA-wireframe-139C.png)
+# PROTOTYPE (MOBILE APP) => [INSTALL IT](https://www.appsheet.com/newshortcut/c8fd4bcc-4a37-41b7-97a0-965edb18117c) 
+![Research Writeup](taware_proto_032.png)
 
-Mobile install: https://www.appsheet.com/newshortcut/c8fd4bcc-4a37-41b7-97a0-965edb18117c 
+# WIREFRAME DESIGN
+![Design](TA-wireframe-139C.png)
 
 ## Welcome to TrashAware!
 TrashAware is a mobile app to enable a community to share sustainability information about their purchases from connected shopping accounts (Walmart, Amazon, Costco, ...).
